@@ -1,5 +1,5 @@
 # obstacle-avoiding-car-pcb
-this project concerns a design   of an simple **ATMEGA 328P** based  2 wheels obstacles avoiding car.
+this project concerns a design   of an simple **ATMEGA 328P**  based  2 wheels obstacles avoiding car.
 
 ## Project Overview
 
